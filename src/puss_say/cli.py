@@ -30,7 +30,8 @@ AVAILABLE_VOICES = [
 DEFAULT_VOICE = "Bella"
 
 AVAILABLE_MODELS = {
-    "nano": "KittenML/kitten-tts-nano-0.8",
+    "nano": "KittenML/kitten-tts-nano-0.8-fp32",
+    "nano-int8": "KittenML/kitten-tts-nano-0.8-int8",
     "micro": "KittenML/kitten-tts-micro-0.8",
     "mini": "KittenML/kitten-tts-mini-0.8",
 }
