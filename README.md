@@ -133,3 +133,4 @@ MIT
 
 - [KittenTTS](https://github.com/KittenML/KittenTTS) for the excellent TTS model
 - [uv2nix](https://github.com/pyproject-nix/uv2nix) for seamless Python packaging in Nix
+- [@slekwati](https://github.com/slekwati) for coming up with the project name
