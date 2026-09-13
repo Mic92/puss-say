@@ -115,7 +115,7 @@ puss-say --list-models
 | Model | Params | Download | Description |
 |-------|--------|----------|-------------|
 | `nano` | 15M | 60 MB | Fastest inference |
-| `nano-int8` | 15M | 28 MB | Quantized nano, smallest download |
+| `nano-int8` | 15M | 28 MB | Smallest download; slower than `nano` on x86 CPUs |
 | `micro` | 40M | 45 MB | Good balance (default) |
 | `mini` | 80M | 82 MB | Best quality |
 
